@@ -763,8 +763,6 @@ a {
   text-align: center;
 }
 .cid-sOGkcxtR1o {
-  padding-top: 5rem;
-  padding-bottom: 6rem;
   background-color: #ffffff;
 }
 @media (max-width: 991px) {
@@ -2011,6 +2009,9 @@ a {
     padding-right: 4rem;
   }
 }
+.cid-sOGwhvmw2b .card-subtitle {
+  color: #2299aa;
+}
 .cid-sOGAatJYR5 {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -2040,6 +2041,9 @@ a {
 }
 .cid-sOGAatJYR5 .google-map[data-state="loading"] [data-state-details] {
   display: none;
+}
+.cid-sOGAatJYR5 .mbr-section-title {
+  color: #2299aa;
 }
 .cid-s48OLK6784 {
   z-index: 1000;
